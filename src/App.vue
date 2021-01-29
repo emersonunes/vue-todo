@@ -111,7 +111,7 @@ $color: #cecece;
         display: flex;
         flex-direction: column;
         width: 400px;
-        min-height: 400px;
+        min-height: 200px;
         background-color: $color;
         border-radius: 5px;
     }
